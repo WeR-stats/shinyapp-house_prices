@@ -1,1 +1,1 @@
-# shinyapp-house_prices
+# A Shiny App to analyze UK House Prices
